@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css?family=Margarine");
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+body{
+  background:#a9d5f2;
+}
+
+#top{
+  font-size:20px;
+  text-align: center;
+}
+
+#top a:link{
+  color:blue;
+  text-decoration:none;
+}
+
+#top a:visited{
+  color:#000;
+}
+
+#top a:hover{
+  text-decoration:underline;
+  background:#311557;
+  color:#fff;
+}
+
+#top a:active{
+  background:#ff8000;
+}
+
+#Sinopsis {
+  height: 600px;
+  background-image: url("la_pelicula-analisis/stranger.jpg");
+  background-repeat: no-repeat;
+  background-position:left;
+}
+
+#Sinopsis .section_title{
+  font-size:30px;
+  color:orange;
+  background-color:#311557;
+  font-family:'Margarine',sans-serif;
+}
+
+#Sinopsis .section_text{
+ font-size:20px;
+ font-family:serif;
+ color:#fff;
+ width: 800px;
+ font-family:'Roboto',sans-serif;
+}
+
+#Necesidades {
+  background:#7ad5e4;
+}
+
+#Necesidades .section_title{
+  font-size:30px;
+  background-color:#311557;
+  font-family:'Margarine',sans-serif;
+  color:orange;
+}
+
+#Necesidades .section_text{
+  font-size:20px;
+  font-family:serif;
+  font-family:'Roboto',sans-serif;
+}
+
+.need_title{
+  color:#311557;
+  font-size:25px;
+  text-decoration: underline;
+}
+
+.need_value{
+  color:#000;
+  font-size:20px;
+  font-family:'Roboto',sans-serif;
+}
+
+#Necesidades img{
+  width: 600px; height: 300px;
+}
+
+#Tecnologias {
+  background:#7ad5e4;
+}
+
+#Tecnologias .section_title{
+  font-size:30px;
+  background-color:#311557;
+  font-family:'Margarine',sans-serif;
+  color:orange;
+}
+
+#Tecnologias .section_text{
+  font-size:20px;
+  font-family: serif;
+  font-family:'Roboto',sans-serif;
+}
+
+.subsection_title{
+  font-size:30px;
+  color:#311557;
+  text-decoration: underline;
+}
+
+.subsection_text{
+  font-size:20px;
+  font-family: serif;
+  font-family:'Roboto',sans-serif;
+}
+
+#Impacto {
+  background:#7ad5e4;
+}
+
+#Impacto .section_title{
+  font-size:30px;
+  background-color:#311557;
+  font-family:'Margarine',sans-serif;
+  color:orange;
+}
+
+#Impacto .section_text{
+  font-size:20px;
+  font-family: serif;
+  font-family:'Roboto',sans-serif;
+}
+
+#Referencias {
+  background:#7ad5e4;
+  font-family:'Roboto',sans-serif;
+  font-size: 15px;
+}
+
+#Referencias .section_title{
+  font-size:30px;
+  background-color:#311557;
+  font-family:'Margarine',sans-serif;
+  color:orange;
+}
+
+.referencias a:link{
+  color:blue;
+  text-decoration:none;
+}
+
+.referencias a:visited{
+  color:#000;
+}
+
+.referencias a:hover{
+  text-decoration:underline;
+  background:#311557;
+  color:#fff;
+}
+
+.referencias a:active{
+  background:#ff8000;
+}
